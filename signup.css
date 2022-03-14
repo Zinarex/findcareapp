@@ -1,0 +1,87 @@
+#main{
+    box-sizing: border-box;
+    font-family: open sans;
+}
+
+.logo{
+position: absolute;
+width: 195px;
+height: 130px;
+left: 700px;
+top: 69px;
+}
+
+.nav-route ul{
+    list-style-type: none;
+    z-index: 100;
+    position: absolute;
+    /* width: 154px; */
+    height: 41px;
+    left: 1400px;
+    top: 50px;
+}
+
+.create-account-section{
+    position: absolute;
+    left: 630px;
+    right: 7.8%;
+    top: 179px;
+    bottom: 74.91%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 136.5%;
+    /* or 43px */
+    letter-spacing: 0.1em;
+    color: #1A16CF;
+    border: 0.873118px solid #FFFFFF;   
+}
+
+.card-8{
+    position: absolute;
+    left: 900px;
+    right: 100px;
+    top: 24px;
+    bottom: 20px;
+    border: 1px solid #D8D3D3;
+    box-sizing: border-box;
+    border-radius: 8px;        
+}
+
+.card-9{
+    position: absolute;
+    left: 74.93%;
+    right: 8.27%;
+    top: 24.56%;
+    bottom: 69.59%;
+    border: 1px solid #D8D3D3;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.card-paragraph-1{
+    position: absolute;
+    left: 60px;
+    right: 26px;
+    top: 120px;
+    bottom: 70px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    /* line-height: 136.5%; */
+    color: #1660CF;    
+}
+
+.card-paragraph-2{
+    position: absolute;
+    left: 78.79%;
+    right: 6.92%;
+    top: 26.51%;
+    bottom: 70.89%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 136.5%;
+    color: #1660CF;   
+}
+    
